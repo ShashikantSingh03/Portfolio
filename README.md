@@ -1,4 +1,7 @@
 # Portfolio 
 *Name- Shashikant Singh
-*Roll- 202510101150163
-*Btech CSE (DS+AI) (35,36)
+* Name: SHASHIKANT SINGH
+* Roll Number: 202510101150163
+* Course: B.Tech CSE (DS + AI) (35,36)
+* University: Shri Ramswaroop Memorial University
+* Academic Year: 2026–27
